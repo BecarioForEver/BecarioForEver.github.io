@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://BecarioForEver.github.io/al-folio/sitemap.xml
+Sitemap: https://BecarioForEver.github.io/sitemap.xml
